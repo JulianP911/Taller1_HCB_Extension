@@ -1,0 +1,53 @@
+/* Estilos personalizados de a pagina web */
+
+/* Estilo del titulo principal de la pagina web */
+.titulo{
+    color: #383838;
+    text-align: center;
+}
+
+/* Estilo divisor 1 */
+.divisor-1{
+    border: 2px solid gray;
+}
+
+/* Estilo parrafos correspon diente a la bibliografia*/
+.parrafo-biografia{
+    text-align: justify;
+}
+
+/* Estilo del link que hace referencia a otra pagina web*/
+.link{
+    color: black;
+    transition: none;
+}
+
+.Noticias{
+    margin-left: -4px;
+}
+
+.Biografia{
+    margin-left: -7px;
+}
+
+.Contacto{
+    margin-left: -8px;
+}
+
+.enuc1{
+    font-size: 1.4rem;
+}
+
+.columna{
+    border-left: 3px solid white;
+}
+
+.navegacion{
+    font-size: 1.2rem;
+}
+
+/* Estilo divisor 2 */
+.divisor-2{
+    border: 2px solid gray;
+    margin-top: 1px;
+}
